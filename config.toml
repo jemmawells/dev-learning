@@ -1,0 +1,5 @@
+baseURL = "https://jemmawells.github.io/"
+languageCode = "en-us"
+title = "Jemma Dev Learning"
+theme = "ananke"
+publishDir = "docs"
